@@ -1,3 +1,4 @@
+<!--Bigining of the code-->
 @extends('layouts.app')
 
 @section('title', 'Profile')
